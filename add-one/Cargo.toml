@@ -9,3 +9,4 @@ edition = "2018"
 [dependencies]
 
 rand = "0.3.14"
+difference = "1.0.0"

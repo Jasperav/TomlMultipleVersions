@@ -8,4 +8,4 @@ edition = "2018"
 
 [dependencies]
 add-one = { path = "../add-one" }
-rand = "0.4.0"
+difference = "2.0.0"
